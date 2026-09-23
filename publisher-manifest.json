@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bb48f2b84dccec2101c90b16",
+  "owner": "qqeeuqvba",
+  "repo": "page-85e891d91aad51005c7d68ce",
+  "title": "想飞云(FeelFree)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "85e891d91aad51005c7d68ce",
+      "a": "想飞云(FeelFree)",
+      "b": "机场官网线路发布页",
+      "entity": "想飞云(FeelFree)",
+      "brand": "想飞云(FeelFree)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a221f87ee965e1ed4bd8583f8cd0eb1b39f41061b21e2cc07b72bd408157cf46",
+      "content": {
+        "primary_entity": "想飞云(FeelFree)",
+        "keyword1": "想飞云(FeelFree)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择适合的客户端，完成订阅导入与连接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好适合的套餐，按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始你的加速体验",
+          "AI_DESCRIPTION": "，想飞云(FeelFree)提供基础版、旗舰版与团队版三档套餐，月付最低 ¥15，按年付仅需 ¥150/年，流量从每月 100GB 到 1000GB 可选。支持多设备同时在线，旗舰版搭载 IPLC 专线优化，适合游戏与流媒体场景。",
+          "AI_FAQ_ANSWER_1": "根据预算与设备数量选择：基础版适合 3 台设备与每月 100GB 流量；旗舰版适合 5 台设备、需要全节点流媒体解锁与游戏加速的用户；团队版支持 20 台设备与 1000GB 流量，适合小团队协作。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。所有套餐均支持按年付，年付价格分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_FAQ_ANSWER_3": "根据设备的操作系统选择对应客户端，导入订阅链接后即可连接。不同平台客户端界面略有差异，具体配置步骤可参阅客户端文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版搭载 IPLC 专线，针对游戏与实时通信进行了加速优化；基础版使用普通线路节点池；团队版提供 VIP 专属高带宽节点与定制路由支持。",
+          "AI_FAQ_ANSWER_5": "月付与年付均可购买。年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于多个自然月费用节省。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "想飞云(FeelFree)三档套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何根据设备选择并配置客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版在加速体验上有何区别？",
+          "AI_FAQ_QUESTION_5": "套餐可以按月付费还是按年付费？",
+          "AI_FAQ_TITLE": "想飞云套餐常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期的三项特点。",
+          "AI_FEATURES_TITLE": "想飞云套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB；按年付仅需 ¥150/年、¥350/年、¥850/年。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按设备数量匹配套餐更划算。",
+          "AI_FEATURE_TEXT_3": "所有套餐均支持月付或年付，年付相当于在多个自然月的基础上进一步节省。",
+          "AI_FEATURE_TITLE_1": "按流量选择套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "灵活的付费周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅，只需三步。",
+          "AI_GUIDE_TITLE": "使用想飞云(FeelFree)的三步",
+          "AI_HERO_INTRO": "想飞云(FeelFree)提供基础版、旗舰版与团队版三档加速套餐，月付最低 ¥15，按年付仅需 ¥150/年。支持 3 至 20 台设备同时在线，旗舰版搭载 IPLC 专线优化，适合游戏与流媒体场景。",
+          "AI_HERO_SUBTITLE": "想飞云海外加速器，多套餐灵活选",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更划算",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "3 至 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB；按年付可选 ¥150/年、¥350/年、¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择适合的套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的同时在线设备数量与线路类型，匹配自身使用场景。",
+          "AI_STEP_TEXT_3": "根据设备系统选择对应客户端，按客户端文档导入订阅链接，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "想飞云，轻松加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8d0y8h2.cn",
+    "host": "8d0y8h2.cn"
+  },
+  "file_hashes": {
+    "index.html": "58b8fdab46f07f33b744ab212915204f40471f1dc85b31b15b64fce5bf2a6bd0",
+    "sitemap.xml": "ba58b5be20954a1f57307db022b3f912a159e2b64c1184a33bfd78bcbf0db724",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "04e135e3e0bf1b11ab066fc6f3467cb8b47b1d727fbda76c7352c24c5745e017",
+    "robots.txt": "ce4a4a5112a76f5e85dd07c8c442c9fea1aae9db017a4298d38fc38baef2873a",
+    "fead2e1ed47be30108e64389189b45bb.txt": "0efd2d0bd5f8186f51f80d754c3206c2059e4fa4a272293d5dde316b8eb732a8"
+  },
+  "revision": "02957aa959c80d77d2d3029f99c9bb2b700bba379fcbfdd8a38e34c185953919"
+}
